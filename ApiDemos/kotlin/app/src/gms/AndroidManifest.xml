@@ -39,6 +39,7 @@
         <activity android:name=".CameraClampingDemoActivity" />
         <activity android:name=".CloudBasedMapStylingDemoActivity" />
         <activity android:name=".CircleDemoActivity" />
+        <activity android:name=".DataDrivenStylingActivity" />
         <activity android:name=".MarkerCloseInfoWindowOnRetapDemoActivity" />
         <activity android:name=".EventsDemoActivity" />
         <activity android:name=".GroundOverlayDemoActivity" />
